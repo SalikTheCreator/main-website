@@ -49,6 +49,7 @@ position: middle;
 
 .body-right {
   position: right;
+	right:2560px;
   text-align: right;
   color: white;
 }
