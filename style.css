@@ -1,16 +1,4 @@
-/* Three image containers (use 25% for four, and 50% for two, etc) */
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
 
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
 
 hr {
 width: 100px;	
@@ -29,15 +17,11 @@ position: absolute;
 }
 
 .body-left {
-  position: left;
-  text-align: left;
-  color: black;
+
 }
 
-.about-me{
-position: center;
-	
-  text-align: center;
+.about-me{ 
+	position: center;
  
 }
 
@@ -45,22 +29,15 @@ position: center;
 }
 
 .body-middle {
-  position: center;
-  text-align: center;
-  color: black;
+ 
 }
 
 .music{
-position:right;
-	text-align:right;
-	color:black;
+
 }
 
 .body-right {
-  position: right;
-	
-  text-align: right;
-  color: black;
+
 }
 
 
@@ -68,4 +45,17 @@ position:right;
   position: middle;
   text-align: center;
   color: black;
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
