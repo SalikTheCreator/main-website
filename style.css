@@ -17,7 +17,7 @@ hr {
 .body-left {
   position: left;
   text-align: left;
-  color: white;
+  color: black;
 }
 
 .about-me{
@@ -32,24 +32,24 @@ position: center;
 .body-middle {
   position: center;
   text-align: center;
-  color: white;
+  color: black;
 }
 
 .music{
 position:right;
 	text-align:right;
-	color:white;
+	color:black;
 }
 
 .body-right {
   position: right;
   text-align: right;
-  color: white;
+  color: black;
 }
 
 
 .footer {
   position: middle;
   text-align: center;
-  color: white;
+  color: black;
 }
