@@ -17,10 +17,8 @@
 }
 
 .body-left {
-  position: relative;
-  left: 1920px;
- bottom:1200px;
-  text-align: center;
+  position: left;
+  text-align: left;
   color: white;
 }
 
@@ -35,7 +33,6 @@ position: middle;
 
 .body-middle {
   position: middle;
-bottom:1200px;
   text-align: center;
   color: white;
 }
@@ -43,15 +40,14 @@ bottom:1200px;
 
 
 .body-right {
-  position: relative;
- bottom:1200px;
-  right: 1920px; 
-  text-align: center;
+  position: right;
+  text-align: right;
   color: white;
 }
 
 
 .footer {
+  position: middle;
   text-align: center;
   color: white;
 }
