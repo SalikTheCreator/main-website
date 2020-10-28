@@ -13,7 +13,7 @@ body{
 .name{
 position: absolute;
        top: 100px;
-	right:1250x;
+	right:1250px;
 }
 .contribution {
 position: absolute;
@@ -54,7 +54,7 @@ position: center;
 
 .body-middle {
   position: absolute;
-  right: 1200px;
+  right: 1220px;
   top: 1200px;
   text-align: center;
   color: black;
@@ -78,7 +78,7 @@ position:right;
 .footer {
   position: absolute;
   top: 2000px;
-  right: 1000px;
+  right: 1040px;
   text-align: center;
   color: black;
 }
