@@ -4,6 +4,11 @@ position: absolute;
        top: 200px;
 	right:250px;
 }
+.contribution {
+position: absolute;
+	top 250px;
+	right:250px;
+}
 hr {
   width: 420px;
 	height: 32px;
