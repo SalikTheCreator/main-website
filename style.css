@@ -37,9 +37,6 @@ position: absolute;
 }
 
 .center-header-text{
- position: absolute;
-  top: 500px;
-  right: 960px;
 }
 
 .body-middle {
@@ -61,8 +58,6 @@ bottom:1200px;
 
 
 .footer {
-  position: relative;
- bottom:16000x; 
   text-align: center;
   color: white;
 }
