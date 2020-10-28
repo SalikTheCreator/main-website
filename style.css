@@ -47,7 +47,11 @@ position: middle;
   color: white;
 }
 
-
+.music{
+position:right;
+	text-align:right;
+	color:white;
+}
 
 .body-right {
   position: absolute;
