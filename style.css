@@ -27,6 +27,7 @@
 .body-left {
   position: absolute;
   left: 1920px;
+ bottom:1200px;
   text-align: center;
   color: white;
 }
@@ -38,6 +39,7 @@ crop.jpg {
 
 .body-middle {
   position: middle;
+bottom:1200px;
   text-align: center;
   color: white;
 }
@@ -49,6 +51,7 @@ images/photo-1563826773-1e2b4b2cde42.jpg {
 
 .body-right {
   position: absolute;
+ bottom:1200px;
   right: 1920px; 
   text-align: center;
   color: white;
@@ -60,7 +63,8 @@ images/guitar_gibson_bw_music_strings_low_key-851698.jpg {
 }
 
 .footer {
-  position: relative;
+  position: absolute;
+ bottom: 8000px; 
   text-align: center;
   color: white;
 }
