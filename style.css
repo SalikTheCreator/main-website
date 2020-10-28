@@ -17,6 +17,8 @@ hr {
 .header-container {
   position: center;
   text-align: center;
+	  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .body-left {
