@@ -1,7 +1,13 @@
 
+hr {
+width: 100px;	
+}
 
 .header-container {
-
+position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .name {
@@ -19,6 +25,7 @@ position: absolute;
 
 .about-me{
 position: center;
+	
   text-align: center;
  
 }
@@ -40,6 +47,7 @@ position:right;
 
 .body-right {
   position: right;
+	
   text-align: right;
   color: black;
 }
