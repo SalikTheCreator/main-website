@@ -3,9 +3,7 @@
 
 @import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great|Lato);
 
-470a19a36904fe200610cc1f41eb00d9 { 
- opacity: 0.7;
-}
+
 
 .column {
   float: left;
@@ -32,10 +30,7 @@
   color: white;
 }
 
-crop.jpg { 
-  position: left; 
-  opacity: 0.9;
-}
+
 
 .body-middle {
   position: middle;
@@ -44,10 +39,7 @@ bottom:1200px;
   color: white;
 }
 
-images/photo-1563826773-1e2b4b2cde42{
-  position: middle;
-  opacity: 0.9;
-}
+
 
 .body-right {
   position: absolute;
@@ -57,10 +49,6 @@ images/photo-1563826773-1e2b4b2cde42{
   color: white;
 }
 
-images/guitar_gibson_bw_music_strings_low_key-851698 {
- position: right;
-  opacity: 0.9;
-}
 
 .footer {
   position: absolute;
