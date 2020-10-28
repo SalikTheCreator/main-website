@@ -22,7 +22,7 @@ hr {
 }
 
 .header-container {
-  position: middle;
+  position: center;
   text-align: center;
 }
 
@@ -33,7 +33,7 @@ hr {
 }
 
 .about-me{
-position: middle;
+position: center;
   text-align: center;
  
 }
@@ -42,7 +42,7 @@ position: middle;
 }
 
 .body-middle {
-  position: middle;
+  position: center;
   text-align: center;
   color: white;
 }
@@ -54,8 +54,7 @@ position:right;
 }
 
 .body-right {
-  position: absolute;
-	right:2560px;
+  position: right;
   text-align: right;
   color: white;
 }
