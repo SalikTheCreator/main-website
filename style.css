@@ -23,7 +23,7 @@
 }
 
 .body-left {
-  position: absolute;
+  position: relative;
   left: 1920px;
  bottom:1200px;
   text-align: center;
@@ -42,7 +42,7 @@ bottom:1200px;
 
 
 .body-right {
-  position: absolute;
+  position: relative;
  bottom:1200px;
   right: 1920px; 
   text-align: center;
@@ -51,7 +51,7 @@ bottom:1200px;
 
 
 .footer {
-  position: absolute;
+  position: relative;
  bottom:16000x; 
   text-align: center;
   color: white;
