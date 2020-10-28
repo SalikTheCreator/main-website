@@ -54,7 +54,7 @@ position: center;
 
 .body-middle {
   position: absolute;
-  right: 1340px;
+  right: 1300px;
   top: 1200px;
   text-align: center;
   color: black;
@@ -78,7 +78,7 @@ position:right;
 .footer {
   position: absolute;
   top: 2000px;
-  right: 1160px;
+  right: 1080px;
   text-align: center;
   color: black;
 }
