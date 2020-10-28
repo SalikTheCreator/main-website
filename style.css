@@ -1,11 +1,10 @@
 
 body { 
-background-image: "images/background1.jpg"
+background-image: "images/background1.jpg";
 	background-size: cover;
 }
 
 body{
-
   color: black;
   font-family: 'Times New Roman', Times, serif;
   font-size: 24px;
