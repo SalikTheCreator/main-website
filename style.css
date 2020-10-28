@@ -25,7 +25,9 @@ hr {
 }
 
 .body-left {
-  position: left;
+  position: absolute;
+	left: 0px ;
+	top: 1200px;
   text-align: left;
   color: black;
 }
@@ -42,7 +44,7 @@ position: center;
 .body-middle {
   position: absolute;
   right: 1340px;
-  top: 1000px;
+  top: 1200px;
   text-align: center;
   color: black;
 }
@@ -55,7 +57,7 @@ position:right;
 
 .body-right {
   position: absolute;
-  top: 1000px;
+  top: 1200px;
   right: 0px;
   text-align: right;
   color: black;
