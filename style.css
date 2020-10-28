@@ -40,7 +40,9 @@ position: center;
 }
 
 .body-middle {
-  position: center;
+  position: absolute;
+  right: 440px;
+  top: 1000px;
   text-align: center;
   color: black;
 }
@@ -52,14 +54,18 @@ position:right;
 }
 
 .body-right {
-  position: right;
+  position: absolute;
+  top: 1000px;
+  right: 0px;
   text-align: right;
   color: black;
 }
 
 
 .footer {
-  position: middle;
+  position: absolute;
+  top: 2000px;
+  right: 440px;
   text-align: center;
   color: black;
 }
