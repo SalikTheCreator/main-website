@@ -13,8 +13,8 @@ body{
 
 .name{
 position: absolute;
-       top: 170px;
-	right:1350px;
+       top: 100px;
+	right:50%;
 }
 .contribution {
 position: absolute;
