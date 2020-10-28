@@ -11,6 +11,13 @@
   display: table;
 }
 
+hr {
+  width: 420px;
+	height: 32px;
+	border: none;
+  margin-top: 30px;
+  margin-bottom: 20px;
+
 .header-container {
   position: middle;
   text-align: center;
