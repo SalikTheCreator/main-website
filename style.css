@@ -1,0 +1,47 @@
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great|Lato);
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.header-container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.body-left {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.body-middle {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.body-right {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.footer {
+  position: relative;
+  text-align: center;
+  color: white;
+}
