@@ -2,7 +2,7 @@
 .name{
 position: absolute;
        top: 150px;
-	right:1280px;
+	right:1300px;
 }
 .contribution {
 position: absolute;
@@ -41,7 +41,7 @@ position: center;
 
 .body-middle {
   position: absolute;
-  right: 440px;
+  right: 1300px;
   top: 1000px;
   text-align: center;
   color: black;
@@ -65,7 +65,7 @@ position:right;
 .footer {
   position: absolute;
   top: 2000px;
-  right: 440px;
+  right: 1300px;
   text-align: center;
   color: black;
 }
