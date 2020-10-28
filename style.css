@@ -23,19 +23,19 @@
 }
 
 .body-left {
-  position: relative;
+  position: left;
   text-align: center;
   color: white;
 }
 
 .body-middle {
-  position: relative;
+  position: center;
   text-align: center;
   color: white;
 }
 
 .body-right {
-  position: relative;
+  position: right;
   text-align: center;
   color: white;
 }
