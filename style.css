@@ -26,11 +26,7 @@ hr {
   text-align: center;
 }
 
-.body-left {
-  position: left;
-  text-align: left;
-  color: white;
-}
+
 
 .about-me{
 position: center;
@@ -38,26 +34,9 @@ position: center;
  
 }
 
-.center-header-text{
-}
 
-.body-middle {
-  position: center;
-  text-align: center;
-  color: white;
-}
 
-.music{
-position:right;
-	text-align:right;
-	color:white;
-}
 
-.body-right {
-  position: right;
-  text-align: right;
-  color: white;
-}
 
 
 .footer {
