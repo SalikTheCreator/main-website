@@ -33,7 +33,7 @@ hr {
 
 .body-left {
   position: absolute;
-	top: 1200px;
+	top: 1100px;
 		left: 0px;
 text-align: left;
   color: black;
@@ -62,7 +62,7 @@ position:right;
 
 .body-right {
   position: absolute;
-	top: 1200px;
+	top: 1100px;
 	right: 0px;
   text-align: right;
   color: black;
