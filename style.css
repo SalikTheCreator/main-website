@@ -5,6 +5,12 @@ width: 20%;
 	margin: auto;
 }
 
+header{
+font-family: "Stencil Std", fantasy ;
+	font-size: 30px;
+	text-align:center;
+}
+
 body{
   color: black;
   font-family: 'Times New Roman', Times, serif;
