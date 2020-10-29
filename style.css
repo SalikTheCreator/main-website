@@ -45,8 +45,8 @@ hr {
 
 .body-left {
   position: center;
-	margin: 100px;
-	padding: 100px;
+	margin: 10px;
+	padding: 10px;
 text-align: center;
   color: black;
 }
@@ -65,7 +65,7 @@ position: center;
   position: center;
   text-align: center;
   color: black;
-	padding: 50px;
+	padding: 10px;
 }
 
 .music{
@@ -76,8 +76,8 @@ position:right;
 
 .body-right {
   position: center;
-	margin: 100px;
-	padding: 100px;
+	margin: 10px;
+	padding: 10px;
   text-align: center;
   color: black;
 }
