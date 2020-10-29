@@ -1,5 +1,5 @@
 .textWrapper{
-width: 33%;
+width: 80%;
 	margin: auto;
 }
 
@@ -68,11 +68,7 @@ position: center;
 	padding: 10px;
 }
 
-.music{
-position:right;
-	text-align:right;
-	color:black;
-}
+
 
 .body-right {
   position: center;
