@@ -43,9 +43,7 @@ position: center;
 }
 
 .body-middle {
-  position: absolute;
-  right: 1310px;
-  top: 1200px;
+  position: center;
   text-align: center;
   color: black;
 }
