@@ -1,5 +1,10 @@
+textWrapper{
+width: 33%;
+	margin: auto;
+}
+
 myFace{
-opacity: 80%;	
+opacity: 60%;	
 }
 .wrapper {
 width: 20%;	
