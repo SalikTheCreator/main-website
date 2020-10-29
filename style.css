@@ -1,3 +1,8 @@
+body {
+ background-image: url("https://cutewallpaper.org/21/plain-white-background-hd/Solid-White-Wallpapers-Top-Free-Solid-White-Backgrounds-.jpg");
+ background-color: #white ;
+
+}
 
 body{
   color: black;
@@ -26,10 +31,8 @@ hr {
 }
 
 .body-left {
-  position: absolute;
-	left: 0px ;
-	top: 1220px;
-  text-align: left;
+  position: center,left;
+text-align: left;
   color: black;
 }
 
@@ -55,18 +58,14 @@ position:right;
 }
 
 .body-right {
-  position: absolute;
-  top: 1220px;
-  right: 0px;
+  position: right,center;
   text-align: right;
   color: black;
 }
 
 
 .footer {
-  position: absolute;
-  top: 2000px;
-  right: 1280px;
+  position: bottom,left;
   text-align: center;
   color: black;
 }
