@@ -13,11 +13,11 @@ position: absolute;
 	right:1320px;
 }
 hr {
-  width: 800px;
+  width: 400px;
 	height: 100px;
 	border: none;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 	background-image: url("images/hr-jehzeel-laurente-2.png");
 }
 .header-container {
