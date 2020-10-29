@@ -26,7 +26,6 @@ hr{
   width: 100px;
   height: 50x;
   border: none;
-  background: #000;
   color: black;
   margin-top: 50px;
   margin-bottom: 50px;
@@ -84,9 +83,4 @@ position:right;
   right: 1280px;
   text-align: center;
   color: black;
-}
-
-/* Email Links */
-a[href^="mailto:salikthecreator@hotmail.com"] {
-    text-decoration: none;
 }
