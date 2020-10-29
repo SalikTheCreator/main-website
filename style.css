@@ -47,7 +47,7 @@ hr {
   position: center;
 	margin: 100px;
 	padding: 100px;
-text-align: left;
+text-align: center;
   color: black;
 }
 
@@ -78,7 +78,7 @@ position:right;
   position: center;
 	margin: 100px;
 	padding: 100px;
-  text-align: right;
+  text-align: center;
   color: black;
 }
 
