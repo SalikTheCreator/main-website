@@ -22,16 +22,14 @@ position: absolute;
 	top 300px;
 	right:1250px;
 }
-hr{
-  width: 100px;
-  height: 50x;
-  border: none;
-  color: black;
-  margin-top: 50px;
-  margin-bottom: 50px;
-  
+hr {
+  width: 420px;
+	height: 32px;
+	border: none;
+  margin-top: 30px;
+  margin-bottom: 20px;
+	background-image: url("images/hr-jehzeel-laurente-2.png");
 }
-
 .header-container {
   position: center;
   text-align: center;
