@@ -42,6 +42,7 @@ text-align: left;
 .about-me{
 position: center;
   text-align: center;
+	padding: 50px;
  
 }
 
@@ -74,6 +75,7 @@ position:right;
   position: bottom,left;
   text-align: center;
   color: black;
+	padding: 50px;
 }
 
 .textContainerRight {
