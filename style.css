@@ -74,3 +74,23 @@ position:right;
   text-align: center;
   color: black;
 }
+
+.textContainer {
+  float: left;
+  width: 300px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.pageContainer {
+  width: 940px;
+  margin: 20px auto 0 auto;
+  padding: 20px;
+  background-color: #fff;
+}
+
+.pageContainer:after { 
+  content: " ";
+  display: table;
+  clear: both;
+}
