@@ -27,10 +27,10 @@ hr{
   height: 25px;
   border: none;
   background: #000;
-  color: #000;
+  color: black;
   margin-top: 30px;
   margin-bottom: 20px;
-  transform: rotate(45deg);
+  
 }
 
 .header-container {
