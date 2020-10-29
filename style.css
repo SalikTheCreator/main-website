@@ -1,7 +1,3 @@
-body { 
-background-image: "images/background1.jpg";
-	background-size: cover;
-}
 
 body{
   color: black;
@@ -13,7 +9,7 @@ body{
 .name{
 position: absolute;
        top: 100px;
-	right:1300px;
+	right:1320px;
 }
 .contribution {
 position: absolute;
@@ -54,7 +50,7 @@ position: center;
 
 .body-middle {
   position: absolute;
-  right: 1270px;
+  right: 1300px;
   top: 1200px;
   text-align: center;
   color: black;
@@ -78,7 +74,7 @@ position:right;
 .footer {
   position: absolute;
   top: 2000px;
-  right: 1100px;
+  right: 1150px;
   text-align: center;
   color: black;
 }
