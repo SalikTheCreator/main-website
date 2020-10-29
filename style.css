@@ -1,7 +1,7 @@
 
 
 .wrapper {
-width: 10%;	
+width: 20%;	
 	margin: auto;
 }
 
@@ -33,7 +33,7 @@ hr {
 
 .body-left {
   position: absolute;
-	top: 1120px;
+	top: 1050px;
 		left: 0px;
 text-align: left;
   color: black;
@@ -62,7 +62,7 @@ position:right;
 
 .body-right {
   position: absolute;
-	top: 1120px;
+	top: 1050px;
 	right: 0px;
   text-align: right;
   color: black;
