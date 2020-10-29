@@ -85,3 +85,8 @@ position:right;
   text-align: center;
   color: black;
 }
+
+/* Email Links */
+a[href^="mailto:"] {
+    text-decoration: none;
+}
