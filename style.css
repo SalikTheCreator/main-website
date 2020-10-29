@@ -69,7 +69,7 @@ position:right;
 
 .body-right {
   position: absolute;
-  top: 1210px;
+  top: 1220px;
   right: 0px;
   text-align: right;
   color: black;
@@ -79,7 +79,7 @@ position:right;
 .footer {
   position: absolute;
   top: 2000px;
-  right: 1270px;
+  right: 1280px;
   text-align: center;
   color: black;
 }
