@@ -1,3 +1,8 @@
+/* used a backround image initially but with the <hr> divider you would see the white outline of the divider so I just use a plain white background. */
+body {
+ background-color: white;
+
+
 /* bolden and increase the size of music can */
 .musicCan{
 font-size: 35px !important;
