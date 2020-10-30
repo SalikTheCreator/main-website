@@ -1,6 +1,4 @@
-/* used a backround image initially but with the <hr> divider you would see the white outline of the divider so I just use a plain white background. */
-body {
- background-color: white;
+
 
 
 /* bolden and increase the size of music can */
@@ -38,8 +36,10 @@ position: center;
 width: 40%;	
 	margin: auto;
 }
-/* sets the font size, font, and color */
+/* sets the font size, font, and color */ 
+/* used a backround image initially but with the <hr> divider you would see the white outline of the divider so I just use a plain white background. */
 body{
+	 background-color: white;
   color: black;
   font-family: 'Times New Roman', Times, serif;
   font-size: 24px;
