@@ -1,27 +1,27 @@
 .circuit {
 position: absolute;
-	opacity: 80%;
+	opacity: 70%;
 	top: 1050px;
 		right: 2000px;
 }
 
 .hard{
 position: absolute;
-	opacity: 80%;
+	opacity: 70%;
 	top: 1500px;
 		right: 2000px;	
 }
 
 .guitar{
 position: absolute;
-	opacity: 80%;
+	opacity: 70%;
 	top: 1700px;
 		right: 2000px;	
 }
 
 .me{
 position: absolute;
-	opacity: 80%;
+	opacity: 87%;
 	top: 800px;
 		right: 2000px;	
 }
