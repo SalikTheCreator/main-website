@@ -47,7 +47,7 @@ position: center;
 }
 
 .body-middle {
-  position: center;
+  position: relative;
   text-align: center;
   color: black;
 	padding: 50px;
@@ -60,7 +60,7 @@ position:right;
 }
 
 .body-right {
-  position: center;
+  position: relative;
 	
   text-align: center;
   color: black;
