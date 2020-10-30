@@ -54,8 +54,8 @@ position: center;
 }
 
 .music{
-position:right;
-	text-align:right;
+position:relative;
+	text-align:center;
 	color:black;
 }
 
