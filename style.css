@@ -1,7 +1,7 @@
 .musicCan{
-font-size: 35px;
-	text-decoration: underline;
-	padding: 15px;
+font-size: 35px !important;
+	text-decoration: underline !important;
+	padding: 15px !important;
 }
 
 .circuit {
