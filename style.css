@@ -1,32 +1,39 @@
+/* bolden and increase the size of music can */
+.musicCan{
+font-size: 35px !important;
+	text-decoration: underline !important;
+	padding: 15px !important;
+}
+/* the next 4 modifications are for picture opacity */
 .circuit {
 position: center;
-	opacity: 70%;
+	opacity: 80%;
 	
 }
 
 .hard{
 position: center;
-	opacity: 70%;
+	opacity: 80%;
 	
 }
 
 .guitar{
 position: center;
-	opacity: 70%;
+	opacity: 80%;
 		
 }
 
 .me{
 position: center;
-	opacity: 70%;
+	opacity: 80%;
 	
 }
-
+/* decrease the size of the page */
 .wrapper {
 width: 40%;	
 	margin: auto;
 }
-
+/* sets the font size, font, and color */
 body{
   color: black;
   font-family: 'Times New Roman', Times, serif;
@@ -34,12 +41,13 @@ body{
   text-align: center;
 	
 }
-
+/* putting the name within the picture in the header */
 .name{
 position: absolute;
        top: 100px;
 	right:1320px;
 }
+/* a way to divide content */
 hr {
   width: 400px;
 	height: 100px;
@@ -48,6 +56,7 @@ hr {
   margin-bottom: 0px;
 	background-image: url("images/hr-jehzeel-laurente-2.png");
 }
+/* confirming everything is centered and is padded */
 .header-container {
   position: center;
   text-align: center;
