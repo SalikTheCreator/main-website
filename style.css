@@ -1,3 +1,9 @@
+h1{
+text: bold;
+	text-font: "OCR A Std", monospace;
+		font-size: 50px;
+}
+
 .circuit {
 position: center;
 	opacity: 80%;
