@@ -1,11 +1,14 @@
 .textWrapper{
-width: 50%;
-	text-align:center;
+width: 70%;
+	margin: auto;
+	padding: 10px;
+	margin:10px;
 }
 
 .myFace{
 opacity: 80%;	
 }
+
 .wrapper {
 width: 20%;	
 	margin: auto;
