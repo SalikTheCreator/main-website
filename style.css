@@ -46,7 +46,7 @@ hr {
 
 .body-left {
   position: center;
-	
+	margin:10px;
 	padding: 10px;
 text-align: center;
   color: black;
@@ -64,6 +64,7 @@ position: center;
 
 .body-middle {
   position: center;
+	margin: 10px;
   text-align: center;
   color: black;
 	padding: 10px;
@@ -73,7 +74,7 @@ position: center;
 
 .body-right {
   position: center;
-
+margin: 10px;
 	padding: 10px;
   text-align: center;
   color: black;
