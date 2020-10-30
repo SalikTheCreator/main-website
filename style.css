@@ -30,10 +30,9 @@ hr {
 }
 
 .body-left {
-  position: absolute;
-	top: 1050px;
-		left: 0px;
-text-align: left;
+  position: center;
+	
+text-align: center;
   color: black;
 }
 
@@ -61,10 +60,9 @@ position:right;
 }
 
 .body-right {
-  position: absolute;
-	top: 1050px;
-	right: 0px;
-  text-align: right;
+  position: center;
+	
+  text-align: center;
   color: black;
 }
 
