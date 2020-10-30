@@ -1,6 +1,6 @@
 .move{
-position: absolute;
-	right: 50%;
+position: absolute !important ;
+	right: 50% !important ;
 	
 }
 
