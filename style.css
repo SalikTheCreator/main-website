@@ -1,34 +1,24 @@
-.soft{
-font-size: 40px;
-	{
-
-h1{
-text: bold;
-	text-font: 'OCR A Std', monospace;
-		font-size: 50px;
-}
-
 .circuit {
 position: center;
-	opacity: 80%;
+	opacity: 70%;
 	
 }
 
 .hard{
 position: center;
-	opacity: 80%;
+	opacity: 70%;
 	
 }
 
 .guitar{
 position: center;
-	opacity: 80%;
+	opacity: 70%;
 		
 }
 
 .me{
 position: center;
-	opacity: 80%;
+	opacity: 70%;
 	
 }
 
@@ -42,7 +32,6 @@ body{
   font-family: 'Times New Roman', Times, serif;
   font-size: 24px;
   text-align: center;
-	spacing: double;
 	
 }
 
