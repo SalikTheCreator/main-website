@@ -1,3 +1,12 @@
+.name {
+font-weight: bold; 
+	font-style: italic;
+}
+
+.headerPic {
+opacity: 80% ;	
+}
+
 /* link colors */
 
 .links a:link {
