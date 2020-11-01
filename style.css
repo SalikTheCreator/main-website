@@ -2,12 +2,6 @@
   line-height: 2;	
 }
 
-.name {
-font-weight: bold; 
-	font-style: italic;
-	font-size: 35px;
-}
-
 .headerPic {
 opacity: 80% ;	
 }
@@ -77,6 +71,9 @@ body{
 position: absolute;
        top: 90px;
 	right:1290px;
+	font-weight: bold; 
+	font-style: italic;
+	font-size: 35px;
 }
 
 /* a way to divide content */
