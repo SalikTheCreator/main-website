@@ -1,3 +1,14 @@
+/* link colors */
+
+.links a:link {
+color: red; 	
+}
+
+.links a:hover {
+color: blue; 	
+}
+
+
 /* bolden and increase the size of music can */
 
 .musicCan{
